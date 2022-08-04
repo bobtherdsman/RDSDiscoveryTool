@@ -28,7 +28,9 @@ c:\RDSDiscoveryGuide
 
       c:\RDSDiscoveryGuide\RDSDiscovery.exe W c:\RDSDiscoveryGuide\in\servers.txt
     
-The discovery will take few minutes and generate an excel sheet .The excel sheet is placed in c:\RDSDiscoveryGuide\out
+The discovery will take few minutes and will generate an excel sheet .
+
+The excel sheet is placed in c:\RDSDiscoveryGuide\out
 
 
     
