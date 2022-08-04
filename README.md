@@ -1,6 +1,6 @@
 1-Download the Tool on c:\ drive 
 
-2-extarct the zip file on c:\RDSDiscoveryGuide
+2-extract the zip file on c:\RDSDiscoveryGuide
 
 3-Once unzipped it should look like this:
 
