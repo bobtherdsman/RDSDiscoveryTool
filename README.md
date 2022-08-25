@@ -10,7 +10,7 @@ c:\RDSDiscoveryGuide
     
     \c:\RDSDiscoveryGuide\Out
     
-4-"In" Directory will have a sample  "Serverstemplate" ,you need to create a txt file with all your servers , you can use IP , servername and if your port is not the 
+4-"In" Directory will have a sample  "Serverstemplate" and RDSSQLInstances.xlsx ,you need to create a txt file with all your servers , you can use IP , servername and if your port is not the 
 
     Default port enter the port as well  i.e servername,1435 or xxx.xxx.xxx.xxx,1435.
 
